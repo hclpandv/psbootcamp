@@ -1,1 +1,40 @@
+PowerShell bootcamp plan:
 
+1) Warm-up Session : 60 Minutes
+                   -Introduction to Next-Gen IT and where PowerShell fits in.
+                   -How PowerShell sees the world? 
+                   -Script Vs Program | Compiler Vs Interpreter.
+                   -Evolution of Task Automation Frameworks in Windows World.
+                   -High Level Intrduction to Objects.
+                   -Introduction of Cmd-Lets. | Get-Command and Get-Help
+
+2) High Tea Break : 10 Minutes
+
+3) Task Activity Session : 60 Minutes
+                   -Day to day task. File Creation, Dir Navagation etc. | get-childItem
+                   -Get-Process, Get-Service
+                   -Sort-Object, Where-Object, ForEach-Object, Select-Object
+                   -The Mighty Pipe
+                   -ISE and Out-GridView.
+
+4) Break for Fruits and Snacks : 20 Minutes
+
+5) Scripting Activity Session 1 : 60 Minutes
+                   -Variables, Conditions, Loops.
+                   -Arrays, Hashtables and collection.
+                   -Hands on Tasks : Basic Maths, Iterate in FileSystem and Registry.
+
+6) Lunch Break : Bun Butter and Tea - 20 Minutes
+
+7) Scripting Activity Session 2 : 60 Minutes
+                   -Moduler Scripting concepts
+                   -Create own function.
+                   -Create Own Cmd-Let.
+                   -Error handelling. 
+                   -Try-Catch.
+                   -How to Reuse, manage, version control.
+                   -Best Practices.
+                   
+                   
+    -------- ADD ONs----
+    Creating Aliases and self Modules and classes.
